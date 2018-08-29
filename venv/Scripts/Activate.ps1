@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\jeffr\OneDrive\git-repos\thesis\venv2"
+$env:VIRTUAL_ENV="C:\Users\jeffr\PycharmProjects\thesis_windows\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
@@ -35,7 +35,7 @@ if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     function global:_OLD_VIRTUAL_PROMPT {""}
     copy-item function:prompt function:_OLD_VIRTUAL_PROMPT
     function global:prompt {
-        Write-Host -NoNewline -ForegroundColor Green '(venv2) '
+        Write-Host -NoNewline -ForegroundColor Green '(venv) '
         _OLD_VIRTUAL_PROMPT
     }
 }
