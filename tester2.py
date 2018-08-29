@@ -1,10 +1,10 @@
 from scapy.all import *
-import base64
+
 
 
 def tester2(pkts):
     i=0;
-    payload_full = b''
+    payload_full = b""
     # pkts.show()
     for p in pkts:
         if p.haslayer(TCP):
