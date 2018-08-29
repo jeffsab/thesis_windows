@@ -1,0 +1,47 @@
+b'incoming.telemetry.mozilla.org.' b'telemetry-incoming.r53-2.services.mozilla.com.'b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.'
+b'incoming.telemetry.mozilla.org.' b'telemetry-incoming.r53-2.services.mozilla.com.'b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.'54.191.241.24652.89.179.23734.212.55.10352.10.55.15154.149.52.18934.217.184.21335.167.70.18054.68.141.132
+b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.' 
+b'www.gstatic.com.' 216.58.196.131
+b'www.gstatic.com.' 216.58.196.131
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'216.58.203.98
+b'www.gstatic.com.' 2404:6800:4006:805::2003
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'2404:6800:4006:802::2002
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'2404:6800:4006:802::2002
+b'www.gstatic.com.' 216.58.203.99
+b'www.gstatic.com.' 2404:6800:4006:805::2003
+b'www.gstatic.com.' 2404:6800:4006:805::2003
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'216.58.203.98
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'216.58.203.98
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'2404:6800:4006:802::2002
+b'encrypted-tbn0.gstatic.com.' 216.58.203.110
+b'encrypted-tbn0.gstatic.com.' 2404:6800:4006:805::200e
+b'sync-651-us-west-2.sync.services.mozilla.com.' 35.167.83.3
+b'www.google.com.' 216.58.196.132
+b'www.google.com.' 2404:6800:4006:809::2004
+b'tiles.services.mozilla.com.' b'tiles.r53-2.services.mozilla.com.'52.34.107.17252.37.183.18752.37.188.19452.34.211.3152.41.78.15252.39.131.7754.148.233.11352.88.57.157
+b'safebrowsing.googleapis.com.' 2404:6800:4006:809::200a
+b'safebrowsing.googleapis.com.' 216.58.196.138
+b'ocsp.pki.goog.' b'www3.l.google.com.'216.58.203.110
+b'ocsp.pki.goog.' b'www3.l.google.com.'2404:6800:4006:805::200e
+b'blocklists.settings.services.mozilla.com.' b'blocklists-settings.prod.mozaws.net.'52.33.72.6634.211.20.16152.10.115.89
+b'blocklists.settings.services.mozilla.com.' b'blocklists-settings.prod.mozaws.net.'
+b'firefox.settings.services.mozilla.com.' b'd2k03kvdk5cku0.cloudfront.net.'54.230.135.21754.230.135.20254.230.135.6954.230.135.180
+b'firefox.settings.services.mozilla.com.' b'd2k03kvdk5cku0.cloudfront.net.'
+b'blocklists-settings.prod.mozaws.net.' 
+b'd2k03kvdk5cku0.cloudfront.net.' 
+b'content-signature.cdn.mozilla.net.' b'd12uj65dsn9ho1.cloudfront.net.'54.230.135.25154.230.135.1354.230.135.9854.230.135.239
+b'content-signature.cdn.mozilla.net.' b'd12uj65dsn9ho1.cloudfront.net.'
+b'd12uj65dsn9ho1.cloudfront.net.' 
+b'ssl.gstatic.com.' 216.58.196.131
+b'ssl.gstatic.com.' 2404:6800:4006:805::2003
+b'lh3.googleusercontent.com.' b'googlehosted.l.googleusercontent.com.'216.58.203.97
+b'lh3.googleusercontent.com.' b'googlehosted.l.googleusercontent.com.'2404:6800:4006:809::2001
+b'www.google.com.' 216.58.203.100
+b'adservice.google.com.au.' b'pagead46.l.doubleclick.net.'216.58.220.98
+b'incoming.telemetry.mozilla.org.' b'telemetry-incoming.r53-2.services.mozilla.com.'b'pipeline-edge-prod-25-561439127.us-west-2.elb.amazonaws.com.'54.68.141.13234.212.55.10352.10.55.15154.149.52.18954.191.241.24652.11.162.21035.167.70.18034.217.184.213
+b'encrypted-tbn2.gstatic.com.' 216.58.203.110
+b'encrypted-tbn2.gstatic.com.' 2404:6800:4006:805::200e
+b'encrypted-tbn1.gstatic.com.' 216.58.203.110
+b'encrypted-tbn1.gstatic.com.' 2404:6800:4006:805::200e
+b'encrypted-tbn3.gstatic.com.' 216.58.203.110
+b'encrypted-tbn3.gstatic.com.' 2404:6800:4006:809::200e
